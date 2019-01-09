@@ -147,7 +147,7 @@
 	 * 第一次加载拉取数据库近100条聊天数据
 	 * 
 	 */
-	loadMessage();
+	//loadMessage();
 	function loadMessage() {
 		var toUser = "";
 		var userImgLink = null
